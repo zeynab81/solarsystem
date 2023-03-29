@@ -5,5 +5,6 @@ public class Main {
         solar.planet="1";
         solar.moon="2";
         solar.sun="3";
+
     }
 }
